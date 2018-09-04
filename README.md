@@ -1,2 +1,7 @@
 # DimachaerusDotFiles
-Config Files
+
+### Config Files
+
+> * .bashrc
+> * .vimrc
+> * config (i3)
